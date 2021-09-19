@@ -1,2 +1,1 @@
-# Semantic-html
-website marketing 
+Horiseon Marketing - Semantic HTML
