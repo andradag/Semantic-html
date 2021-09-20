@@ -1,14 +1,13 @@
-/*Universal Selector */
 * {
   box-sizing: border-box;
   padding: 0;
   margin: 0;
 }
-/* Element Selecto select all of body element type */
+
 body {
   background-color: #d9dcd6;
 }
-/* Class Electors select all elements with class header */
+
 .header {
   padding: 20px;
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
