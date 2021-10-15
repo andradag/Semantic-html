@@ -8,6 +8,7 @@ body {
   background-color: #d9dcd6;
 }
 
+/*header section with nav bar containing links*/
 .header {
   padding: 20px;
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
@@ -51,6 +52,7 @@ p {
   font-size: 16px;
 }
 
+/*main introductory picture*/
 .hero {
   height: 800px;
   width: 100%;
@@ -59,23 +61,25 @@ p {
   background-size: cover;
   background-position: center;
 }
-
+/*Section 3 social media marketing*/
 .float-left {
   float: left;
   margin-right: 25px;
 }
 
+/*Section 2 online reputation management*/
 .float-right {
   float: right;
   margin-left: 25px;
 }
-
+/*main section containing three principal sections*/
 .content {
   width: 75%;
   display: inline-block;
   margin-left: 20px;
 }
 
+/*Aside Section containing 3 sections*/
 .benefits {
   margin-right: 20px;
   padding: 20px;
@@ -103,6 +107,7 @@ p {
   max-width: 150px;
 }
 
+/*main section containing three principal sections*/
 .content-section {
   margin-bottom: 20px;
   padding: 50px;
@@ -121,6 +126,7 @@ p {
   font-size: 36px;
 }
 
+/*Footer*/
 .footer {
   padding: 30px;
   clear: both;
